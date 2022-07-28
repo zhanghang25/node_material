@@ -11,6 +11,7 @@ const sequelize = new Sequelize("node_admin", MYSQL_USERNAME, MYSQL_PASSWORD, {
   dialect: "mysql" /* one of 'mysql' | 'mariadb' | 'postgres' | 'mssql' */,
 });
 
+
 // 定义数据模型
 const Counter = sequelize.define("Counter", {
   count: {
