@@ -3,7 +3,8 @@
     {
       "name": "node_material",
       "domain": "",
-      "ip": ""
+      "ip": "",
+      "containerId": "855185868e7c555bb037b910c6790da71275567ad201ba56a0a511aafd8a8666"
     }
   ],
   "config": {
